@@ -24,7 +24,7 @@ description: >- # 由 seo meta 和 atom feed 使用
   Nichts Hsu 的个人博客
 
 # 填入你的网站的协议和域名，例如，'https://username.github.io'
-url: "https://sadboy-cn.github.io"
+url: "https://www.sadboy.cn"
 
 author: Nichts Hsu # 全名
 
@@ -41,7 +41,7 @@ social:
   email: NichtsVonChaos@gmail.com # 邮箱地址
   links:
     # 第一个链接将会作为版权所有者的链接
-    - https://sadboy-cn.github.io/
+    - https://www.sadboy.cn/
     - https://twitter.com/NichtsHsu # 推特主页
     - https://github.com/NichtsHsu # Github 主页
     # 取消注释以添加更多链接
