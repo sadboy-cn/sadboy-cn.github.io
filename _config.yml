@@ -16,34 +16,34 @@ timezone: Asia/Shanghai
 
 # jekyll-seo-tag 设置 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Nihil       # 主标题
+title: sadboy       # 主标题
 
-tagline: Nichts Hsu # 副标题
+tagline: 当你抱怨你没有鞋穿时，你回头一看，发现别人竟然没有脚。 # 副标题
 
 description: >- # 由 seo meta 和 atom feed 使用
-  Nichts Hsu 的个人博客
+  sadboy 的个人博客
 
 # 填入你的网站的协议和域名，例如，'https://username.github.io'
 url: "https://www.sadboy.cn"
 
-author: Nichts Hsu # 全名
+author: sadboy # 全名
 
 github:
-  username: NichtsHsu # Github 用户名
+  username: sadboy-cn # Github 用户名
 
 twitter:
-  username: NichtsHsu # 推特用户名
+  username: sadboy-cn # 推特用户名
 
 social:
   # 改为你的全名。
   # 这将会显示为帖子的默认作者以及页脚的版权所有者
-  name: Nichts Hsu
-  email: NichtsVonChaos@gmail.com # 邮箱地址
+  name: sadboy
+  email: wx@sadboy.cn # 邮箱地址
   links:
     # 第一个链接将会作为版权所有者的链接
     - https://www.sadboy.cn/
     - https://twitter.com/NichtsHsu # 推特主页
-    - https://github.com/NichtsHsu # Github 主页
+    - https://github.com/sadboy-cn # Github 主页
     # 取消注释以添加更多链接
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
