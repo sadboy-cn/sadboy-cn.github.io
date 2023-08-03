@@ -2,7 +2,7 @@
 title: StringTable学习
 date: 2021-4-24 16:24:33 +0800
 categories: [学习, JVM]
-tags: [学习, JVM]     # TAG names should always be lowercase
+tags: [study, JVM]     # TAG names should always be lowercase
 ---
 
 ## 习题一（JDK1.8）

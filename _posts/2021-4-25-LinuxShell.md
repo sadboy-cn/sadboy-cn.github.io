@@ -2,7 +2,7 @@
 title: Shell命令记录
 date: 2021-4-25 15:35:33 +0800
 categories: [学习, Shell]
-tags: [学习, Shell]     # TAG names should always be lowercase
+tags: [study, Shell]     # TAG names should always be lowercase
 ---
 
 ## 1、shell结果赋值变量

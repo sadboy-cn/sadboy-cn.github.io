@@ -2,7 +2,7 @@
 title: 去除Html文档中的Html标签
 date: 2021-4-29 17:51:33 +0800
 categories: [Java, 代码]
-tags: [代码, Java]     # TAG names should always be lowercase
+tags: [code, Java]     # TAG names should always be lowercase
 ---
 
 ## 前言
