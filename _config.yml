@@ -24,7 +24,7 @@ description: >- # 由 seo meta 和 atom feed 使用
   Nichts Hsu 的个人博客
 
 # 填入你的网站的协议和域名，例如，'https://username.github.io'
-url: "https://nihil.cc"
+url: "https://sadboy-cn.github.io"
 
 author: Nichts Hsu # 全名
 
@@ -41,7 +41,7 @@ social:
   email: NichtsVonChaos@gmail.com # 邮箱地址
   links:
     # 第一个链接将会作为版权所有者的链接
-    - https://nihil.cc/
+    - https://sadboy-cn.github.io/
     - https://twitter.com/NichtsHsu # 推特主页
     - https://github.com/NichtsHsu # Github 主页
     # 取消注释以添加更多链接
@@ -77,7 +77,7 @@ mouse_click_effect: false
 # 图像 CDN 端点。
 # 注意一旦被分配，CDN 网址会被加在
 # 所有以 '/' 开始的图像（网站头像和帖子中的图像）路径上
-# 
+#
 # 例如，'https://cdn.com'
 img_cdn: ""
 
@@ -87,7 +87,7 @@ avatar: /avatar.png
 # 设置显示右侧边栏的内容
 panel:
   # 设置显示在帖子中右侧边栏的内容
-  # 
+  #
   # 提示:
   #   全局开关为 false 时必定不显示对应块。
   #   全局开关为 true 时，可以在帖子的 md 文件头部使用形如:
