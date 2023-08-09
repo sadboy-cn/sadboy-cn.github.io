@@ -14,3 +14,12 @@ currPath=$(pwd) 或 $ currPath=`pwd`
 echo $currPath
 mkdir $currPath/bin
 ```
+
+## 2、根据pid查询Jar位置
+
+>1、使用命令查询pid 2、根据pid查询jar路径
+
+```shell
+ps -ef|grep java
+ll /proc/$pid/cwd
+```
